@@ -1,0 +1,12 @@
+{
+    "include": [
+        "/home/thea/.config/waybar/modules/*/*"
+    ],
+    "layer": "top",
+    "position": "top",
+    "height": 55,
+
+    "modules-left": ["custom/power", "custom/spacer#1", "clock#date", "clock#time"],
+    "modules-center": ["mpris"],
+    "modules-right": ["group/pulseaudio", "custom/spacer#1", "network", "bluetooth", "battery"]
+}

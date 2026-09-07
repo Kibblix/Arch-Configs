@@ -1,0 +1,14 @@
+{
+	"custom/spacer#1": {
+		"format": "|",
+		"tooltip-format": "this is a spacer"
+	},
+	"custom/spacer#2": {
+		"format": "-",
+		"tooltip-format": "this is a spacer"
+	},
+	"custom/spacer#3": {
+		"format": "|",
+		"tooltip-format": "this is a spacer"
+	}
+}
